@@ -52,4 +52,18 @@
       text-align: right;
     }
   }
+  .mxauto {
+    width: rem(1224);
+    margin-inline: auto;
+    @include mobile {
+      width: 100%;
+    }
+  }
+  .mxauto {
+    width: rem(1224);
+    margin-inline: auto;
+    @include mobile {
+      width: 100%;
+    }
+  }
 }
